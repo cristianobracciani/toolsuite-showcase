@@ -130,6 +130,18 @@ Advanced HTML & RPL editor featuring live preview, syntax highlighting and valid
 
 ![RPL Interpreter](images/rpl-editor.jpg)
 
+### Campaign Packager — Campaign Configuration
+
+Configure campaign metadata, select templates and generate standardized output packages through a guided workflow. The tool validates inputs, previews the final structure and prepares all required assets before packaging.
+
+![Campaign Packager - Configuration](images/campaign-packager-step1.jpg)
+
+### Campaign Packager — Visual Layout Builder
+
+Build email layouts through a visual drag-and-drop interface, combining reusable modules with live preview to accelerate content composition while maintaining a standardized campaign structure.
+
+![Campaign Packager - Layout Builder](images/campaign-packager-step2.jpg)
+
 ---
 
 ## Results
