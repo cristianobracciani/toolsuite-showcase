@@ -1,5 +1,9 @@
 # RPL ToolSuite
 
+> **Status:** Private Production Project  
+> **Type:** Internal Process Automation Platform  
+> **Tech Stack:** Node.js • Express • JavaScript • Bootstrap • Microsoft Graph
+
 > Internal platform designed to automate business workflows supporting Oracle Responsys campaign development.
 
 ---
