@@ -87,7 +87,28 @@ The platform currently includes **9 integrated tools**, each designed to solve a
 
 ## Project Architecture
 
-_Coming soon_
+```mermaid
+flowchart TD
+    A[User] --> B[Login & Session Auth]
+    B --> C[ToolSuite Dashboard]
+    C --> D[Static Tool Pages]
+
+    D --> E[Client-side Processing]
+    D --> F[Protected Express API]
+
+    F --> G[RPL Processing Engine]
+    F --> H[Campaign Packaging Service]
+    F --> I[File Upload & ZIP Processing]
+    F --> J[Microsoft Graph Integration]
+
+    E --> K[Generated Outputs]
+    G --> K
+    H --> K
+    I --> K
+    J --> K
+
+    K[HTML, CSV, Preview, Clipboard Output, Downloadable ZIP]
+```
 
 ---
 
