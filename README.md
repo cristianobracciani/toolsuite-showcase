@@ -99,6 +99,12 @@ The ToolSuite dashboard provides a centralized access point to all available aut
 
 ![ToolSuite Dashboard](images/dashboard.jpg)
 
+### RPL Interpreter
+
+Advanced HTML & RPL editor featuring live preview, syntax highlighting and validation tools to simplify campaign development and testing.
+
+![RPL Interpreter](images/rpl-editor.jpg)
+
 ---
 
 ## Results
