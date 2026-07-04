@@ -26,7 +26,25 @@ The platform was designed with maintainability, usability and process standardiz
 
 ## Key Features
 
-_To be completed_
+- **Workflow Automation**
+  Automates repetitive tasks involved in campaign development, reducing manual effort and improving consistency.
+
+- **Campaign Asset Generation**
+  Generates HTML snippets, campaign components and development assets through guided interfaces.
+
+- **Visual Editing**
+  Provides dedicated editors to simplify content creation, validation and testing.
+
+- **Data Processing**
+  Parses, transforms and validates campaign data, reducing manual manipulation.
+
+- **File Packaging**
+  Organizes and prepares campaign files into standardized structures ready for delivery.
+
+- **Developer Productivity**
+  Consolidates multiple utilities into a single platform, reducing context switching and improving development speed.
+
+The platform currently includes **9 integrated tools**, each designed to solve a specific stage of the campaign development workflow.
 
 ---
 
