@@ -144,4 +144,8 @@ The platform significantly reduced repetitive manual work during campaign develo
 
 ## Why is the source code private?
 
-_To be completed_
+ToolSuite was developed as an internal platform to support real production workflows and contains proprietary business logic, company-specific processes and implementation details that cannot be publicly disclosed.
+
+This repository focuses on documenting the project's architecture, design decisions and capabilities while respecting confidentiality and intellectual property constraints.
+
+The goal of this showcase is to demonstrate the overall software architecture, engineering approach and technical solutions behind the platform.
