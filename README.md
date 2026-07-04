@@ -1,6 +1,6 @@
 # ToolSuite
 
-> Internal Process Automation Platform
+> Internal platform designed to automate business workflows supporting Oracle Responsys campaign development.
 
 ---
 
@@ -50,8 +50,39 @@ The platform currently includes **9 integrated tools**, each designed to solve a
 
 ## Technology Stack
 
-_To be completed_
+### Backend
 
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- jQuery
+
+### External Integrations
+
+- Microsoft Graph API
+
+### Security
+
+- JWT Authentication
+- Helmet
+- CORS
+- Rate Limiting
+
+### Build & Tooling
+
+- Git
+- npm
+- Custom Build System
+- Code Minification
+  
 ---
 
 ## Project Architecture
@@ -68,7 +99,15 @@ _Coming soon_
 
 ## Results
 
-_To be completed_
+The platform significantly reduced repetitive manual work during campaign development by centralizing multiple utilities into a single application.
+
+### Achievements
+
+- 9 integrated tools
+- 30% estimated reduction in operational time
+- Reduced manual effort and human error
+- Improved workflow consistency
+- Simplified testing and validation activities
 
 ---
 
