@@ -93,7 +93,11 @@ _Coming soon_
 
 ## Screenshots
 
-_Coming soon_
+### Dashboard
+
+The ToolSuite dashboard provides a centralized access point to all available automation modules, allowing developers to quickly navigate through the different workflow utilities.
+
+![ToolSuite Dashboard](images/dashboard.jpg)
 
 ---
 
